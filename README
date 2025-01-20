@@ -1,0 +1,23 @@
+HW 1
+----
+
+Please finish all the TODOs in comments in the template code in the files below.
+
+Files to finish and run:
+- script_see_files.py is the script that you want to run to execute all your Python methods you need to finish
+- data_loader.py is the file to load data from the data dir. The data dir should be where you put the corresponding
+data from the arc challenge data set
+- explore_data.py is the visualization code that will render the data to a plot and save (example is given to you in plots.
+
+Please see the directory structure as well for where to put your data and plots
+
+Please see the requirements.txt file for libraries to use.
+If you are new to pip and venv, please see:
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
+
+There are many tutorials on the internet and usually your IDE makes it easy to setup.
+
+Submission
+----
+Once done commit your code to GitHub in a subdirectory called "HW1"
+
