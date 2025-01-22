@@ -1,1 +1,3 @@
-# sshiwakoti
+- script_see_files.py is the script to execute all  Python methods
+- data_loader.py is the file to load data from the data dir. 
+- explore_data.py is the visualization code that will render the data to a plot and save.
